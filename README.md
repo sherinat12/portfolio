@@ -1,19 +1,19 @@
 # 🌐 Personal Portfolio
 
-Welcome to my personal portfolio website! This website showcases my skills, projects, education, and contact information.
+Welcome to my personal portfolio website! This portfolio highlights my journey as a Computer Science and Engineering student, showcasing my technical skills, projects, certifications, education, and experience.
 
 ## 🚀 About Me
 
-Hi, I'm Raja Sherina T, a Computer Science and Engineering student passionate about Web Development and Python Programming.
- 
-I enjoy building responsive websites and developing real-world projects using modern technologies.
+Hi, I'm **Raja Sherina T**, a Computer Science and Engineering student with a passion for **Web Development**, **Python Programming**, and **Software Development**.
+
+I enjoy creating responsive and user-friendly websites while continuously learning new technologies to build real-world applications.
 
 ---
 
 ## 🛠️ Technologies Used
-  
+
 - HTML5
-- CSS3 
+- CSS3
 - JavaScript
 - Responsive Web Design
 
@@ -21,20 +21,24 @@ I enjoy building responsive websites and developing real-world projects using mo
 
 ## ✨ Features
 
-- Responsive Design
-- Home Section
-- About Me
-- Skills
-- Projects
-- Education
-- Contact Form
-- Clean and Modern UI
+- 🏠 Home Section
+- 👩‍💻 About Me
+- 💡 Technical Skills
+- 🚀 Projects Showcase
+- 💼 Experience
+- 🎓 Education
+- 📜 Certifications
+- 📞 Contact Section
+- 🌙 Dark Mode Toggle
+- 📱 Fully Responsive Design
+- 🎨 Clean & Modern User Interface
+- ⚡ Smooth Navigation
 
 ---
 
 ## 📂 Project Structure
 
-```
+```text
 portfolio/
 │
 ├── index.html
@@ -47,42 +51,52 @@ portfolio/
 
 ## 💻 How to Run
 
-1. Clone the repository
+1. Clone this repository
 
 ```bash
-git clone https://github.com/your-username/portfolio.git
+git clone https://github.com/sherinat12/portfolio.git
 ```
 
 2. Open the project folder.
 
-3. Double-click **index.html** or open it using **Live Server** in Visual Studio Code.
+3. Open **index.html** in your browser or run it using **Live Server** in Visual Studio Code.
 
 ---
 
 ## 📸 Preview
 
-![Portfolio Screenshot](screenshot.png)
+Add a screenshot of your portfolio here.
 
-> *(You can replace this with a screenshot of your portfolio later.)*
+```text
+portfolio/
+│
+├── screenshot.png
+```
+
+Then display it using:
+
+```markdown
+![Portfolio Preview](screenshot.png)
+```
 
 ---
 
 ## 📬 Contact
 
-**Name:** Raja Sherina T
+**Raja Sherina T**
 
-- 📧 Email: sherin88478@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/your-linkedin/
-- 💻 GitHub: https://github.com/sherinat12
+- 📧 Email: **sherin88478@gmail.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/your-linkedin/**
+- 💻 GitHub: **https://github.com/sherinat12**
 
 ---
 
-## ⭐ If you like this project
+## ⭐ Support
 
-Please consider giving this repository a ⭐ on GitHub.
+If you found this project helpful, please consider giving it a ⭐ on GitHub. Your support is greatly appreciated!
 
 ---
 
 ## 📄 License
 
-This project is open-source and available under the MIT License.
+This project is licensed under the **MIT License**.
