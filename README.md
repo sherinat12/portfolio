@@ -71,7 +71,7 @@ git clone https://github.com/your-username/portfolio.git
 
 **Name:** Raja Sherina T
 
-- 📧 Email: your-email@example.com
+- 📧 Email: sherin88478@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/your-linkedin/
 - 💻 GitHub: https://github.com/sherinat12
 
