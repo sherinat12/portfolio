@@ -13,7 +13,7 @@ I enjoy building responsive websites and developing real-world projects using mo
 ## 🛠️ Technologies Used
   
 - HTML5
-- CSS3
+- CSS3 
 - JavaScript
 - Responsive Web Design
 
