@@ -13,7 +13,7 @@ I enjoy creating responsive and user-friendly websites while continuously learni
 ## 🛠️ Technologies Used
  
 - HTML5  
-- CSS3
+- CSS3 
 - JavaScript
 - Responsive Web Design
 
