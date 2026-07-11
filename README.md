@@ -38,7 +38,7 @@ I enjoy creating responsive and user-friendly websites while continuously learni
 
 ## 📂 Project Structure
 
-```text
+```text 
 portfolio/
 │
 ├── index.html
