@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website! This portfolio highlights my journey as a Computer Science and Engineering student, showcasing my technical skills, projects, certifications, education, and experience.
 
 ## 🚀 About Me 
- 
+  
 Hi, I'm Raja Sherina T, a Computer Science and Engineering student with a passion for Web Development, Python Programming.
 
 I enjoy creating responsive and user-friendly websites while continuously learning new technologies to build real-world applications.
