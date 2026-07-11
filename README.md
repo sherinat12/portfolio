@@ -8,7 +8,6 @@ Hi, I'm Raja Sherina T, a Computer Science and Engineering student with a passio
 
 I enjoy creating responsive and user-friendly websites while continuously learning new technologies to build real-world applications.
 
-
 ---
 
 ## 🛠️ Technologies Used
