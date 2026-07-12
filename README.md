@@ -1,6 +1,6 @@
 # 🌐 Personal Portfolio
 
-Welcome to my personal portfolio website! This portfolio highlights my journey as a Computer Science and Engineering student, showcasing my technical skills, projects, certifications, education, and experience.
+Welcome to my personal portfolio website! This portfolio highlights my journey as a Computer Science and Engineering student, showcasing my technical skills, projects, certifications, education, and experience. 
 
 ## 🚀 About Me  
   
