@@ -85,7 +85,7 @@ Then display it using:
 
 **Raja Sherina T**
 
-- 📧 Email: rajasherinaa@gmail.com
+- 📧 Email: sherinaa842@gmail.com
 -  💼 LinkedIn: www.linkedin.com/in/rajasherina
 - 💻 GitHub: https://github.com/sherinat12
 

@@ -66,7 +66,7 @@
 
   /* ---------- SCROLL REVEAL ---------- */
   var revealTargets = document.querySelectorAll(
-    ".about__grid, .skills__grid, .project-card, .timeline__item, .edu-item, .cert-card, .contact__grid"
+    ".skills__grid, .project-card, .timeline__item, .edu-item, .cert-card, .contact__grid"
   );
   revealTargets.forEach(function (el) { el.classList.add("reveal"); });
 
@@ -202,7 +202,7 @@
     // No backend is wired up yet — fall back to opening the visitor's email client.
     var subject = encodeURIComponent("Portfolio contact from " + name);
     var body = encodeURIComponent(message + "\n\n— " + name + " (" + email + ")");
-    window.location.href = "mailto:rajasherinaa@gmail.com?subject=" + subject + "&body=" + body;
+    window.location.href = "mailto:sherinaa842@gmail.com?subject=" + subject + "&body=" + body;
 
     formStatus.style.color = "var(--accent-3)";
     formStatus.textContent = "Opening your email client to send this message…";
